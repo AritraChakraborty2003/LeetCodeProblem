@@ -20,11 +20,11 @@ public class PalindromeNumber {
 
     public static int countOfDigits(int n){
 
-        int count=0;
+        int val=0;
         while(n>0){
-            count++;
+            val++;
             n=n/10;
         }
-        return count;
+        return val;
     }
 }
