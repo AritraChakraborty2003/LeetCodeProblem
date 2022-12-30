@@ -1,5 +1,4 @@
 package LeetCodeProblems;
-
 import java.util.ArrayList;
 
 public class RemoveElement {
